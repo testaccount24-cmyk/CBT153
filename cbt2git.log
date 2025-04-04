@@ -1,0 +1,8 @@
+2025-04-04 05:11:51.325333 - Received CBT.V508.FILE153.PDS from FILE153.XMI 
+2025-04-04 05:11:51.326016 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE153.PDS, moved to PDS/$$$#DATE
+2025-04-04 05:11:51.326165 - Found @FILE153.txt (text/plain) in CBT.V508.FILE153.PDS, moved to PDS/@FILE153
+2025-04-04 05:11:51.326345 - Found C1AG0004.bin (application/octet-stream) in CBT.V508.FILE153.PDS, moved to PDS/C1AG0004
+2025-04-04 05:11:51.326470 - Found C2AG0004.bin (application/octet-stream) in CBT.V508.FILE153.PDS, moved to PDS/C2AG0004
+2025-04-04 05:11:51.326587 - Found T1AG0004.bin (application/octet-stream) in CBT.V508.FILE153.PDS, moved to PDS/T1AG0004
+2025-04-04 05:11:51.326901 - Found X1AG0004.bin (application/octet-stream) in CBT.V508.FILE153.PDS, moved to PDS/X1AG0004
+2025-04-04 05:11:51.327202 - Found X2AG0004.bin (application/octet-stream) in CBT.V508.FILE153.PDS, moved to PDS/X2AG0004
